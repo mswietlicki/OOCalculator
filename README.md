@@ -12,7 +12,10 @@ Sample app for teaching GitFlow
 - dotnet run -p .\src\OOCalculator
 
 ## Exercise
-In groups extend this app with new operators like "-", "*", "/", "%" and other. 
+- New commands like "-", "*", "/", "%" and other.
+- Add unit tests
+- Red error message
+- Introduce IoC Container
 
 ## References
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
