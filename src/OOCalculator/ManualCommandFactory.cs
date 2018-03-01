@@ -11,6 +11,8 @@ namespace OOCalculator
         {
             _commands.Add(new Add());
             _commands.Add(new Modulo());
+            _commands.Add(new Multiply());
+            _commands.Add(new Minus());
         }
         public ICommand GetCommand(string name)
         {
