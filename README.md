@@ -13,3 +13,6 @@ Sample app for teaching GitFlow
 
 ## Exercise
 In groups extend this app with new operators like "-", "*", "/", "%" and other. 
+
+## References
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
