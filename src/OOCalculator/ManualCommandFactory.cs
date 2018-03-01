@@ -10,6 +10,7 @@ namespace OOCalculator
         public ManualCommandFactory()
         {
             _commands.Add(new Add());
+            _commands.Add(new Multiply())
         }
         public ICommand GetCommand(string name)
         {
